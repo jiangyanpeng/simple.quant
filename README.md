@@ -4,15 +4,6 @@
 
 This repository relates two main sections: **Fundamentals** and **Practical Application**, aiming to provide a comprehensive guide on model quantization in TensorRT.
 
-## Fundamentals
-
-Both the video and code for this section are completely open-source.
-
-- **Video Tutorial**: [Bilibili Link](https://www.bilibili.com/video/BV18L41197Uz/?spm_id_from=333.788&vd_source=eefa4b6e337f16d87d87c2c357db8ca7)
-- **Code Repository**: [GitHub Link](https://github.com/shouxieai/tensorRT_quantization)
-
-### Table of Contents
-
 1. **Principles of Model Quantization**
    - 1.1 Definition and Significance of Quantization
      - 1.1.1 Model Weight Analysis
@@ -55,14 +46,6 @@ The practical application section is paid content. Please visit the link below t
 
 本仓库分为涉及两个部分：**基础知识**和**实战应用**，旨在全面讲解 TensorRT 下的模型量化。
 
-
-## 基础知识
-
-该部分的视频和代码完全开源。
-
-- **视频教程**：[B站链接](https://www.bilibili.com/video/BV18L41197Uz/?spm_id_from=333.788&vd_source=eefa4b6e337f16d87d87c2c357db8ca7)
-- **代码仓库**：[GitHub链接](https://github.com/shouxieai/tensorRT_quantization)
-
 ### 目录
 
 1. **模型量化原理**
@@ -91,7 +74,4 @@ The practical application section is paid content. Please visit the link below t
 
 ## 实战应用
 
-实战部分内容需要付费购买，请访问以下链接：
-
-[购买链接](#)
 
