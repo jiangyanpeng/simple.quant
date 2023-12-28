@@ -28,18 +28,6 @@ This repository relates two main sections: **Fundamentals** and **Practical Appl
    - 2.6 Sensitivity Layer Analysis
    - 2.7 Pitfalls and Lessons Learned
 
-## Practical Application
-
-The practical application section is paid content. Please visit the link below to purchase:
-
-[Buy Now](#)
-
-
-
-
-
-
-
 # TensorRT 量化教程
 
 ***如果你觉得这个教程很赞，欢迎给星星哟!⭐⭐⭐***
