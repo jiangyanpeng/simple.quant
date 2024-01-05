@@ -1,39 +1,3 @@
-
-# TensorRT Quantization Tutorial
-***if you feel the tutorial is good! why not give us a star!⭐⭐⭐***
-
-This repository relates two main sections: **Fundamentals** and **Practical Application**, aiming to provide a comprehensive guide on model quantization in TensorRT.
-
-1. **Principles of Model Quantization**
-   - 1.1 Definition and Significance of Quantization
-     - 1.1.1 Model Weight Analysis
-     - 1.1.2 Importance of Quantization
-   - 1.2 Symmetric vs Asymmetric Quantization
-     - 1.2.1 Definition of Symmetric Quantization
-     - 1.2.2 Handwritten Code for Symmetric Quantization
-     - 1.2.3 Definition of Asymmetric Quantization
-     - 1.2.4 Handwritten Code for Asymmetric Quantization
-   - 1.3 Common Methods for Dynamic Range Calculation
-     - 1.3.1 Max
-     - 1.3.2 Histogram
-     - 1.3.3 Entropy
-   - 1.4 Introduction to PTQ and QAT
-   - 1.5 Handwriting a Quantized Program with Ops
-2. **TensorRT Quantization Library**
-   - 2.1 Understanding Quantizer
-   - 2.2 Understanding InputQuant/MixQuant
-   - 2.3 Automatic Insertion of QDQ Nodes
-   - 2.4 Manual Insertion of QDQ Nodes
-   - 2.5 How to Quantize a Custom Layer
-   - 2.6 Sensitivity Layer Analysis
-   - 2.7 Pitfalls and Lessons Learned
-
-# TensorRT 量化教程
-
-***如果你觉得这个教程很赞，欢迎给星星哟!⭐⭐⭐***
-
-本仓库分为涉及两个部分：**基础知识**和**实战应用**，旨在全面讲解 TensorRT 下的模型量化。
-
 ### 目录
 
 1. **模型量化原理**
